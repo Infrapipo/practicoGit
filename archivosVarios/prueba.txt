@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Prueba1234
-=======
-Prueba1
->>>>>>> develop
