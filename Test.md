@@ -11,9 +11,13 @@ Heading rules
 -------------
 # Emphasis
 **This is bold text**
+
 **This is bold text**
+
 _This is italic text_
+
 _This is italic text_
+
 ~~Strikethrough~~
 
 # Blockquotes
@@ -38,4 +42,21 @@ Ordered
 5. Quinta
 
 Start numbering with offset
+
+57. foo
+58. bar
+
+# Code
+Inline code
+
+indented code
+
+``//some comments
+line 1 of code
+line 2 of code
+line 3 code``
+
+ Block code "fences"
+
+ ``Sample text here...``
 
