@@ -79,7 +79,7 @@ console.log(foo(5));
 Right aligned columns
 
 | **Option** | **Description** |
-| :---   | ---:                |
+| ---:   | ---:                |
 | data   | path to data files  |
 | engine | engine to be used for precessing templates.                     |
 | ext    | extension to be used for dest files. |
